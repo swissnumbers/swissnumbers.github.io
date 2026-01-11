@@ -39,6 +39,8 @@ While fondue wins the "search war" on Google, raclette is winning our hearts. La
 
 **World Record Vibes:** In April 2025, we proved how much we love it by breaking a world record in Martigny. Nearly 5,000 people gathered to eat over 2,037 kg of cheese. The tickets were so popular they sold out in just one hour and 20 minutes!
 
+**Decades-Long Trend**: For the past 2 decades, the search trend has been clearly moving in favor of raclette, with a search volume ratio going from over ~5 all the way down to ~2 in 2025-2026 (peak is the highest daily volume occuring in winter, total is the entire annual volume). 
+
 <img src="/notebooks/fondue/ratio.png" style="display: block; margin: 0 auto" alt="Search interest ratio" height="400">
 
 <img src="/notebooks/fondue/raclette.jpg" style="display: block; margin: 0 auto" alt="A professional racleur using a large knife to scrape a gooey layer of melted cheese from a giant wheel onto a plate of steamed potatoes" width="350" height="400">
