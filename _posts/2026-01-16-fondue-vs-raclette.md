@@ -8,7 +8,7 @@ meta: "Switzerland"
 modified_date: 2026-01-16
 ---
 
-> ***See something missing?** Reach out, or leave a YouTube comment [on this video]()!*
+> ***See something missing?** Reach out, or leave a comment [on this YouTube video](https://www.youtube.com/watch?v=R-Eor-rog50)!*
 
 
 ## Welcome to our cheesy land! 🧀
